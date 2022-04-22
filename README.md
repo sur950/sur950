@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://suresh-konaknachi.in)
+[![Suresh's GitHub Banner](https://avatars.githubusercontent.com/u/46712434?v=4](https://suresh-konaknachi.in)
 
 [![Visits Badge](https://badges.pufler.dev/visits/sur950/sur950)](https://suresh-konakanchi.in)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/sur950)
@@ -6,9 +6,13 @@
 
 Hey there 👋
 
-I’m Suresh, a senior full-stack engineer, creative coder, An entrepreneur and self-proclaimed film script writer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. I am also into blockchain development & crypto's.
+I’m Suresh, a senior full-stack engineer, creative coder, an entrepreneur and self-proclaimed film script writer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. I am also into blockchain development & crypto's.
 
 Want to know more about me? [Check out my portfolio.](https://suresh-konakanchi.in/)
+
+<br>
+
+Want to know more about my company? [Check out my product](https://vardaan.app/)
 
 ## 📝 Latest Blog Posts
 
@@ -72,21 +76,21 @@ Want to know more about me? [Check out my portfolio.](https://suresh-konakanchi.
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Blockchain-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ethereum-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=blue&color=4AB197)
+![](https://img.shields.io/badge/Code-Blockchain-informational?style=flat&logo=ethereum&logoColor=red&color=4AB197)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=blue&color=4AB197)
+![](https://img.shields.io/badge/Code-Ethereum-informational?style=flat&logo=ethereum&logoColor=red&color=4AB197)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=express&logoColor=green&color=4AB197)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=green&color=4AB197)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-GCP-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-DigitalOcean-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=yellow&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=4AB197)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=yellow&color=4AB197)
+![](https://img.shields.io/badge/Code-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=blue&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
