@@ -1,158 +1,213 @@
-<!-- ![Suresh's GitHub Banner](https://avatars.githubusercontent.com/u/46712434?size=50)(https://suresh-konaknachi.in) -->
+<div align="center">
+  <a href="https://github.com/sur950">
+    <img src="https://github.com/sur950/sur950/blob/main/github-header-image.png" alt="Suresh's GitHub Banner" style="width: 100%; max-width: 800px;">
+  </a>
+  <br>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=sur950&color=blueviolet" alt="Visitor Count">
+    <a href="https://twitter.com/sur950" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1" alt="Twitter Badge">
+    </a>
+    <a href="https://www.linkedin.com/in/sur950/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Badge">
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://buymeacoffee.com/sur950" target="_blank">
+      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee">
+    </a>
+    <a href="https://paypal.me/suresh950" target="_blank">
+      <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
+    </a>
+  </p>
+</div>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sur950&left_color=grey&right_color=blue)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/sur950)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sur950/)
+<div align="center">
+  <h1>Hey there 👋 I'm Suresh Konakanchi!</h1>
+</div>
+
+I’m a **Tech Architect** with a passion for building robust, scalable, and intelligent systems. I specialise in bridging the gap between cutting-edge technologies and practical solutions, focusing on **Agentic AI** and **Blockchain** alongside architecting **high-performance, scalable full-stack applications**. My mission is to translate user-focused designs into blazing-fast, pixel-perfect experiences. Beyond tech, I'm a creative coder, an entrepreneur, and a self-proclaimed film scriptwriter!
+
+---
+
+## 🚀 What I'm Up To
+
+- 🔭 **Architecting scalable systems** with a balanced focus on **Agentic AI and Blockchain integration**.
+- 🌱 Deep diving into **Agentic Flow, LlamaIndex, Generative AI models**, and **decentralized application (dApp) architectures**.
+- 👯 Looking to collaborate on **innovative AI/Blockchain projects** that push the boundaries of what's possible.
+- 🤔 Exploring **new paradigms in data privacy and security** within distributed ledgers and AI.
+- 💬 Ask me about **system design, blockchain security, AI model deployment, or even film scriptwriting**!
+- ⚡ Fun fact: I believe good architecture is like a well-written script – every component plays a crucial role!
+
+---
+
+## 🌐 Let's Connect & Explore My Work
+
+<p align="center">
+  <a href="https://suresh-konakanchi.in/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-Discover%20My%20Work-informational?style=for-the-badge&logo=react&logoColor=white&color=0077B5" alt="Portfolio Badge">
+  </a>
+  <a href="https://vardaan.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Product-Vardaan.app-informational?style=for-the-badge&logo=vercel&logoColor=white&color=28a745" alt="Product Badge">
+  </a>
+</p>
+
+---
+
+## ✍️ Latest Insights & Blog Posts
+
 <br>
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sur950)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/suresh950)
 
-Hey there 👋
-
-I’m Suresh, a senior full-stack engineer, creative coder, an entrepreneur and self-proclaimed film script writer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. I am also into blockchain development & crypto's.
-
-Want to know more about me? [Check out my portfolio.](https://suresh-konakanchi.in/)
-
-<br>
-
-Want to know more about my company? [Check out my product](https://vardaan.app/)
-
-<br>
-
-## 📝 Latest Blog Posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
 - [Blockchain and Smart Contracts](https://techblog.geekyants.com/all-you-need-to-know-about-blockchain-and-smart-contracts)
 - [Cryptography in Blockchain](https://techblog.geekyants.com/all-you-need-to-know-about-cryptography-in-blockchain)
-<!-- BLOG-POST-LIST:END -->
-
 <br>
 
-## 📌 Pinned Repositories
+---
 
-<br>
+## 🌟 Featured Projects (Pinned Repositories)
 
-<a href="https://github.com/sur950/any_link_preview">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sur950&repo=any_link_preview&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/sur950/Flutter_SnakeGame_FlutterWeb">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sur950&repo=Flutter_SnakeGame_FlutterWeb&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<p align="center">
+  <a href="https://github.com/sur950/any_link_preview">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sur950&repo=any_link_preview&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+  <a href="https://github.com/sur950/Flutter_SnakeGame_FlutterWeb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sur950&repo=Flutter_SnakeGame_FlutterWeb&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+</p>
+<p align="center">
+   <a href="https://github.com/sur950/movie_tickets_book">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sur950&repo=movie_tickets_book&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+  <a href="https://github.com/GeekyAnts/ethereum-logistics-application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GeekyAnts&repo=ethereum-logistics-application&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/sur950/mcp-server-examples">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sur950&repo=mcp-server-examples&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+  <a href="https://github.com/sur950/background-workers-messaging-queues">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sur950&repo=background-workers-messaging-queues&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+</p>
 
-<br>
+---
 
-<a href="https://github.com/sur950/movie_tickets_book">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sur950&repo=movie_tickets_book&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/sur950/imageCropping">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sur950&repo=imageCropping&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+## 📈 GitHub Activity & Stats
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sur950&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Suresh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sur950&theme=radical&hide_border=false" alt="Suresh's GitHub Streak" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sur950&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Suresh's Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sur950&theme=nord&no-frame=false&no-bg=true&margin-w=4" alt="Suresh's GitHub Trophies" />
+</p>
 
-<a href="https://github.com/sur950/solidity-string-utils">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sur950&repo=solidity-string-utils&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+---
 
-<br>
+## 🛠️ My Skillset
 
-# 📊 GitHub Stats:
+<h3 align="left">Core & Fullstack Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Expo-1B2735?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+</p>
 
-<br>
+<h3 align="left">Blockchain & Web3</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Polygon_Network-8247E5?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon Network" />
+  <img src="https://img.shields.io/badge/Web3.js-F05023?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
+  <img src="https://img.shields.io/badge/Truffle-%2341496a.svg?style=for-the-badge&logo=truffle&logoColor=white" alt="Truffle" />
+  <img src="https://img.shields.io/badge/Hardhat-232121?style=for-the-badge&logo=hardhat&logoColor=white" alt="Hardhat" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=sur950&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sur950&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sur950&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=sur950&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+<h3 align="left">Artificial Intelligence & Machine Learning</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic_AI-FF6F00?style=for-the-badge&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/LlamaIndex-007ACC?style=for-the-badge&logoColor=white" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Bedrock" />
+  <img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=dataiku&logoColor=white" alt="Claude AI" />
+</p>
 
-<br>
+<h3 align="left">Databases & Cloud Platforms</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" alt="DigitalOcean" />
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
 
-## 💼 Skills
-
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+<h3 align="left">Tools & Other Technologies</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=Adobe_XD&logoColor=#FF61F6" alt="Adobe XD" />
+  <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant-Design" />
+  <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
 <details>
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Style-Nativebase-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat&logo=apollo-graphql)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
-![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat&logo=fastify&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
+<p align="center">
+  <img src="https://img.shields.io/badge/Style-Nativebase-informational?style=for-the-badge&logo=css3&logoColor=white&color=4AB197" alt="Nativebase" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" alt="Apollo-GraphQL" />
+  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white" alt="Realm" />
+  <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch" />
+  <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF.svg?style=for-the-badge&logo=Adobe_After_Effects&logoColor=white" alt="Adobe After Effects" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" />
+  <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" />
+  <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+  <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant-Design" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="ElasticSearch" />
+  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi" />
+</p>
 
 </details>
 
-<br>
+---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<!--
-**sur950/sur950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</div>
